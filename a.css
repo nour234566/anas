@@ -1,0 +1,36 @@
+/* Votre CSS existant */
+body {
+    background-color: #ffffffcc;
+    background-size: 100%;
+    background-position: center;
+}
+
+
+.accessoires-section {
+    margin: 20px 0px;
+}
+
+.accessoires-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 100px;
+}
+
+.accessoire-item {
+    width: 300px;
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.accessoire-item img {
+    max-width: 100%;
+    border-radius: 4px;
+}
+h1 {
+    text-align: center;
+   
+}
+
+
